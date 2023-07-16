@@ -3,14 +3,16 @@ public class cat{
     private int age;
     private String name;
 
-    public void main(String[] args){
+    public void main(String[] args) {
+        String name;
         String name1 = name;
-         (String ) {
-            name = name1;
+        Object String;
+        (String switch (name1)){
+            this.name = name1;
             int age = 2;
             this.age = age;
-         }
-         void greet;{
+        }
+        public static void greet{
             System.out.println("Мяу! Меня зовут <name>. Мне <age> года(лет).Мой владелец - <owner.name>.");
         }
         class owner{
