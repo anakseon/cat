@@ -2,6 +2,8 @@
 public class cat{
     private int age;
     private String name;
+    String color;
+    String adress;
 
     public void main(String[] args) {
         String name;
