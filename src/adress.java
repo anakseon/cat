@@ -7,4 +7,6 @@ public interface adress {
     private static adress getAdress() {
         return this;
     }
+
+    void initialize(String adress);
 }

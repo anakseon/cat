@@ -15,7 +15,7 @@ public class colorImpl implements color {
         System.out.println(getColor());
     }
 
-    private boolean getColor() {
-        return false;
+    private String getColor() {
+        return null;
     }
 }
